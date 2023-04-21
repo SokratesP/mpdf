@@ -12,4 +12,3 @@ if (method_exists($loggerLogMethodReflect, 'getReturnType') && $loggerLogMethodR
 else {
 	include __DIR__ . "/psr-log-2/TestLogger.php";
 }
-
